@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Your Podcast Player</title>
+        <language>en-us</language>
+        <itunes:author>The Wix Podcast Team</itunes:author>
+        <itunes:summary>All the info, audio or video that’s needed to show and play your podcast episodes is contained in the RSS feed. Head to Settings and connect your podcast’s RSS feed. </itunes:summary>
+        <description>All the info, audio or video that’s needed to show and play your podcast episodes is contained in the RSS feed. Head to Settings and connect your podcast’s RSS feed. </description>
+        <itunes:image href="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/v2/Podcast_Cover.png" />
+    </channel>
+</rss>
