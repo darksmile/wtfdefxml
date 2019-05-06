@@ -7,53 +7,5 @@
         <itunes:summary>All the info, audio or video that’s needed to show and play your podcast episodes is contained in the RSS feed. Head to Settings and connect your podcast’s RSS feed. </itunes:summary>
         <description>All the info, audio or video that’s needed to show and play your podcast episodes is contained in the RSS feed. Head to Settings and connect your podcast’s RSS feed. </description>
         <itunes:image href="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/v2/Podcast_Cover.png" />
-        <item>
-            <title>Customizing Your Player</title>
-            <itunes:summary>Customize the look and feel of the player to match your site. Your podcast will look and sound awesome!</itunes:summary>
-            <description>Customize the look and feel of the player to match your site. Your podcast will look and sound awesome!</description>
-            <enclosure url="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/default_audio.mp3" type="audio/mp3" length="42"></enclosure>
-            <pubDate>Thu, 08 Oct 2017 16:01:07 +0000</pubDate>
-            <itunes:author>The Wix Podcast Team</itunes:author>
-            <itunes:duration>00:24:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/Podcast_Episode01.png" />
-            <guid>http://example.com/podcast-1</guid>
-        </item>
-        <item>
-            <title>Designing Episode Pages </title>
-            <itunes:summary>Every episode automatically gets its own page. Visitors can watch, listen and download each episode.</itunes:summary>
-            <description>Every episode automatically gets its own page. Visitors can watch, listen and download each episode.</description>
-            <enclosure url="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/default_audio.mp3" type="audio/mp3" length="42"></enclosure>
-            <pubDate>Thu, 08 Oct 2017 16:01:07 +0000</pubDate>
-            <itunes:author>The Wix Podcast Team</itunes:author>
-            <itunes:duration>00:34:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/Podcast_Episode02.png" />
-            <guid>http://example.com/podcast-2</guid>
-        </item>
-        <item>
-            <title>Updating Your Podcast</title>
-            <itunes:summary>Any changes you make to your podcast, like adding or editing an episode, will automatically be updated on your player.</itunes:summary>
-            <description>Any changes you make to your podcast, like adding or editing an episode, will automatically be updated on your player.</description>
-            <enclosure url="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/default_audio.mp3" type="audio/mp3" length="42"></enclosure>
-            <pubDate>Thu, 08 Oct 2017 16:01:07 +0000</pubDate>
-            <itunes:author>The Wix Podcast Team</itunes:author>
-            <itunes:duration>00:34:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/Podcast_Episode03.png" />
-            <guid>http://example.com/podcast-3</guid>
-        </item>
-        <item>
-            <title>Podcasting Audio &amp; Video </title>
-            <itunes:summary>Do you have video episodes in your podcast? Any podcast episodes will get a video player. </itunes:summary>
-            <description>Do you have video episodes in your podcast? Any podcast episodes will get a video player. </description>
-            <enclosure url="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/default_audio.mp3" type="audio/mp3" length="42"></enclosure>
-            <pubDate>Thu, 08 Oct 2017 16:01:07 +0000</pubDate>
-            <itunes:author>The Wix Podcast Team</itunes:author>
-            <itunes:duration>00:34:00</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://wixmp-75eb3988ec69dadbe2780877.wixmp.com/default_content/Podcast_Episode04.png" />
-            <guid>http://example.com/podcast-4</guid>
-        </item>
     </channel>
 </rss>
